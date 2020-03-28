@@ -1,8 +1,7 @@
 # Sureniology-COVID-19
 Background
 
-![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fhealth-51214864&psig=AOvVaw2m-nuWFon3C5ZC8M8BMmTk&ust=1585457507385000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjT4MyvvOgCFQAAAAAdAAAAABAD)
-Format: ![Alt Text](url)
+![Image description](https://upload.wikimedia.org/wikipedia/commons/d/d9/3D_medical_animation_coronavirus_structure_vie.pnglink-to-image)
 
 
 
