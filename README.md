@@ -1,6 +1,10 @@
 # Sureniology-COVID-19
 Background
 
+![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fhealth-51214864&psig=AOvVaw2m-nuWFon3C5ZC8M8BMmTk&ust=1585457507385000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjT4MyvvOgCFQAAAAAdAAAAABAD)
+Format: ![Alt Text](url)
+
+
 
 The 2019 Novel Coronavirus, or 2019-nCoV, is a new respiratory virus first identified in Wuhan, Hubei Province, China. A novel coronavirus (nCoV) is a new coronavirus that has not been previously identified. The 2019 novel coronavirus (2019-nCoV), is not that same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold.
 
