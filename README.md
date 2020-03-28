@@ -1,7 +1,7 @@
 # Sureniology-COVID-19
 Background
 
-![Image description](https://upload.wikimedia.org/wikipedia/commons/d/d9/3D_medical_animation_coronavirus_structure_vie.pnglink-to-image)
+![Corona virus](https://upload.wikimedia.org/wikipedia/commons/d/d9/3D_medical_animation_coronavirus_structure_vie.png)
 
 
 
